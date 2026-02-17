@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NCAA Championships on sixman.guru</title>
+    <link>http://localhost:1313/tags/ncaa-championships/</link>
+    <description>Recent content in NCAA Championships on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2014 12:18:43 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ncaa-championships/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NCAA Men’s DI Tennis Regionals Simulated 50,000 times</title>
+      <link>http://localhost:1313/posts/ncaa-mens-di-tennis-regionals-simulated-50000-times/</link>
+      <pubDate>Tue, 06 May 2014 12:18:43 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ncaa-mens-di-tennis-regionals-simulated-50000-times/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;This is posted on my college tennis website so aptly named, &lt;a href=&#34;http://texascollegetennis.com/&#34;&gt;texascollegetennis.com&lt;/a&gt;. I decided to post it here as well.. why not, right?&lt;/p&gt;
+&lt;p&gt;I’m sitting in the middle of exams and term projects looking for ways to relax. What better way than to run a Monte Carlo Simulation of each of the men’s regionals, based on my year-end ratings?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

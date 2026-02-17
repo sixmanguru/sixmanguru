@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Six-Man Football on sixman.guru</title>
+    <link>http://localhost:1313/tags/six-man-football/</link>
+    <description>Recent content in Six-Man Football on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2015 19:31:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/six-man-football/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Microsoft’s TrueSkill to Rank Texas Six-Man Football Teams</title>
+      <link>http://localhost:1313/posts/using-microsofts-trueskill-to-rank-texas-six-man-football-teams/</link>
+      <pubDate>Thu, 03 Dec 2015 19:31:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/using-microsofts-trueskill-to-rank-texas-six-man-football-teams/</guid>
+      <description>&lt;p&gt;People have always compared six-man football to a computer game. With its wild scores and fast-paced style, six-man football can be just as exciting, if not more so.&lt;/p&gt;
+&lt;p&gt;So what if you played the entire six-man season on your Xbox?&lt;/p&gt;
+&lt;p&gt;That’s why I decided to use the &lt;a href=&#34;http://research.microsoft.com/en-us/projects/trueskill/&#34; target=&#34;_blank&#34;&gt;TrueSkill Ranking System&lt;/a&gt; created by Microsoft Research for Xbox Live games and apply it to the season.&lt;/p&gt;
+&lt;p&gt;Microsoft uses this algorithm to track the skill of gamers in order to place them in competitive matches. On the Microsoft Research website it explains that the ranking system is characterized by two attributes: a players average skill level (ranking) and the degree of uncertainty in the gamer’s skill (this would be the variation in the players level). If you would like to read more, it can be found at the Microsoft Research website, http://research.microsoft.com/en-us/projects/trueskill/&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>100k Simulations of All Texas Private Six-Man Brackets</title>
+      <link>http://localhost:1313/posts/100k-simulations-of-all-texas-private-six-man-brackets/</link>
+      <pubDate>Wed, 12 Nov 2014 23:44:24 +0000</pubDate>
+      <guid>http://localhost:1313/posts/100k-simulations-of-all-texas-private-six-man-brackets/</guid>
+      <description>&lt;p&gt;It was just time to get down to it. I had been delaying the inevitable, running 100,000 simulations of each and every private school six-man state bracket. For details on how I did this, please read the earlier posts I have written about the public school brackets and other Monte Carlo simulations I have written. This was very similar….&lt;/p&gt;
+&lt;p&gt;First build the start bracket using this week’s ratings from my website (&lt;a href=&#34;http://www.sixmanfootball.com/&#34;&gt;www.sixmanfootball.com&lt;/a&gt;). Then calculate the probability of each first round game and simulate the result. After each round I update the ratings (not 100% like my formula, but a close enough estimation) and continue…. do this 100,000 times and see what happened.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating Maps on the Fly For UIL Realignment</title>
+      <link>http://localhost:1313/posts/creating-maps-on-the-fly-for-uil-realignment/</link>
+      <pubDate>Mon, 03 Feb 2014 16:46:21 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-maps-on-the-fly-for-uil-realignment/</guid>
+      <description>&lt;p&gt;This morning the high school football season officially started with the release of the much anticipated 2014-2016 UIL Football Alignments. This usually started with the UIL servers crashing due to the high volume of traffic (it did briefly, prior to release). This year the UIL was prepared and had a back-up plan to divert traffic off their site.&lt;/p&gt;
+&lt;p&gt;So at exactly 9:00 am, the Twitterverse was alive with the ramblings of everyone who cares about Texas high school football.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating Maps with MySQL, PHP and Google Maps API v3</title>
+      <link>http://localhost:1313/posts/creating-maps-with-mysql-php-and-google-maps-api-v3/</link>
+      <pubDate>Thu, 28 Nov 2013 05:55:46 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-maps-with-mysql-php-and-google-maps-api-v3/</guid>
+      <description>&lt;p&gt;It has been awhile since I started this and never really followed up. I created this blog to be a space where I can share data, news and concepts I am working with.&lt;/p&gt;
+&lt;p&gt;I have been feverishly working on a project that will be hosted here that just doesn’t seem to want to end. In the meantime, I decided I needed to catch up with a few projects that I have actually completed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

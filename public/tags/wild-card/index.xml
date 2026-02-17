@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wild Card on sixman.guru</title>
+    <link>http://localhost:1313/tags/wild-card/</link>
+    <description>Recent content in Wild Card on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Sep 2014 09:37:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wild-card/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oakland, Pittsburgh slight favorites in Wild Card probabilities</title>
+      <link>http://localhost:1313/posts/oakland-pittsburgh-slight-favorites-in-wild-card-probabilities/</link>
+      <pubDate>Tue, 30 Sep 2014 09:37:58 +0000</pubDate>
+      <guid>http://localhost:1313/posts/oakland-pittsburgh-slight-favorites-in-wild-card-probabilities/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;With the MLB Playoffs beginning this evening, I figured it was time to test my rankings and pull out the old &lt;a href=&#34;http://www.sixmanguru.com/generic-sports-series-probability-calculator/&#34;&gt;probability calculator&lt;/a&gt;. I created the MLB Ratings based on a &lt;a href=&#34;http://www.sixmanguru.com/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/&#34;&gt;simple least squares NLP Optimization&lt;/a&gt; that I have discussed before.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Oakland at Kansas City&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Royals are in the playoffs for the first time in ages and they get to host a game. Unfortunately, they didn’t seem to have a home field advantage during the regular season, so I am not sure how much this helps (although in reality we can assume it does, at least a little). The numbers say the A’s are the better team by almost 0.7 of a run (per game, for the season). I show them as a 63.5% favorite.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

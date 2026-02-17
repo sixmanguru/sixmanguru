@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Maps on sixman.guru</title>
+    <link>http://localhost:1313/tags/google-maps/</link>
+    <description>Recent content in Google Maps on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2013 05:55:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/google-maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Maps with MySQL, PHP and Google Maps API v3</title>
+      <link>http://localhost:1313/posts/creating-maps-with-mysql-php-and-google-maps-api-v3/</link>
+      <pubDate>Thu, 28 Nov 2013 05:55:46 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-maps-with-mysql-php-and-google-maps-api-v3/</guid>
+      <description>&lt;p&gt;It has been awhile since I started this and never really followed up. I created this blog to be a space where I can share data, news and concepts I am working with.&lt;/p&gt;
+&lt;p&gt;I have been feverishly working on a project that will be hosted here that just doesn’t seem to want to end. In the meantime, I decided I needed to catch up with a few projects that I have actually completed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

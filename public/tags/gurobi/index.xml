@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gurobi on sixman.guru</title>
+    <link>http://localhost:1313/tags/gurobi/</link>
+    <description>Recent content in Gurobi on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2014 02:01:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gurobi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 50,000 Monte Carlo Simulation Results for the NCAA Basketball Tournament</title>
+      <link>http://localhost:1313/posts/my-50000-monte-carlo-simulation-results-for-the-ncaa-basketball-tournament/</link>
+      <pubDate>Fri, 21 Mar 2014 02:01:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-50000-monte-carlo-simulation-results-for-the-ncaa-basketball-tournament/</guid>
+      <description>&lt;p&gt;With March Madness upon us, I have been in a solid state of sleep-deprivation. It all started with a class project assigned in late February that suggested we enter the Kaggle competition of our choice or create a similar type project.&lt;/p&gt;
+&lt;p&gt;I was immediately drawn to the March Machine Learning Mania being hosted by Kaggle and Intel. For the past three weeks, in any spare time, I have been trying to find and clean data to run models. I thought things were slowing down last week until I decided to try some new data I had found.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>College Bowl Season Predictions Based on Least Squared Non-Linear Programming Model</title>
+      <link>http://localhost:1313/posts/college-bowl-season-predictions-based-on-least-squared-non-linear-programming-model/</link>
+      <pubDate>Sun, 22 Dec 2013 03:45:12 +0000</pubDate>
+      <guid>http://localhost:1313/posts/college-bowl-season-predictions-based-on-least-squared-non-linear-programming-model/</guid>
+      <description>&lt;p&gt;There’s no shortage of data out there when it comes to college football, so I decided to take the time to create a least squares model, based on the same principals I have been using for the NFL, and &lt;a href=&#34;http://www.sixmanguru.com/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/&#34;&gt;outlined here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea was to take all 752 schools that played college football, cross that with all 4138 games that were played (up to last weekend) and see how they predict the games (especially versus the Vegas lines).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Texas High School Football on sixman.guru</title>
+    <link>http://localhost:1313/tags/texas-high-school-football/</link>
+    <description>Recent content in Texas High School Football on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2015 19:31:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/texas-high-school-football/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Microsoft’s TrueSkill to Rank Texas Six-Man Football Teams</title>
+      <link>http://localhost:1313/posts/using-microsofts-trueskill-to-rank-texas-six-man-football-teams/</link>
+      <pubDate>Thu, 03 Dec 2015 19:31:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/using-microsofts-trueskill-to-rank-texas-six-man-football-teams/</guid>
+      <description>&lt;p&gt;People have always compared six-man football to a computer game. With its wild scores and fast-paced style, six-man football can be just as exciting, if not more so.&lt;/p&gt;
+&lt;p&gt;So what if you played the entire six-man season on your Xbox?&lt;/p&gt;
+&lt;p&gt;That’s why I decided to use the &lt;a href=&#34;http://research.microsoft.com/en-us/projects/trueskill/&#34; target=&#34;_blank&#34;&gt;TrueSkill Ranking System&lt;/a&gt; created by Microsoft Research for Xbox Live games and apply it to the season.&lt;/p&gt;
+&lt;p&gt;Microsoft uses this algorithm to track the skill of gamers in order to place them in competitive matches. On the Microsoft Research website it explains that the ranking system is characterized by two attributes: a players average skill level (ranking) and the degree of uncertainty in the gamer’s skill (this would be the variation in the players level). If you would like to read more, it can be found at the Microsoft Research website, http://research.microsoft.com/en-us/projects/trueskill/&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

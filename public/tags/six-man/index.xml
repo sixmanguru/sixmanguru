@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Six-Man on sixman.guru</title>
+    <link>http://localhost:1313/tags/six-man/</link>
+    <description>Recent content in Six-Man on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2015 19:31:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/six-man/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Microsoft’s TrueSkill to Rank Texas Six-Man Football Teams</title>
+      <link>http://localhost:1313/posts/using-microsofts-trueskill-to-rank-texas-six-man-football-teams/</link>
+      <pubDate>Thu, 03 Dec 2015 19:31:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/using-microsofts-trueskill-to-rank-texas-six-man-football-teams/</guid>
+      <description>&lt;p&gt;People have always compared six-man football to a computer game. With its wild scores and fast-paced style, six-man football can be just as exciting, if not more so.&lt;/p&gt;
+&lt;p&gt;So what if you played the entire six-man season on your Xbox?&lt;/p&gt;
+&lt;p&gt;That’s why I decided to use the &lt;a href=&#34;http://research.microsoft.com/en-us/projects/trueskill/&#34; target=&#34;_blank&#34;&gt;TrueSkill Ranking System&lt;/a&gt; created by Microsoft Research for Xbox Live games and apply it to the season.&lt;/p&gt;
+&lt;p&gt;Microsoft uses this algorithm to track the skill of gamers in order to place them in competitive matches. On the Microsoft Research website it explains that the ranking system is characterized by two attributes: a players average skill level (ranking) and the degree of uncertainty in the gamer’s skill (this would be the variation in the players level). If you would like to read more, it can be found at the Microsoft Research website, http://research.microsoft.com/en-us/projects/trueskill/&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crowell Favorite to Win Six-Man Title with 33.1% Win Probability</title>
+      <link>http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/</link>
+      <pubDate>Tue, 11 Nov 2014 17:20:34 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/</guid>
+      <description>&lt;p&gt;I have created several Monte Carlo simulations over the past year to try and determine probabilities for various sporting events. This week I decided to tackle the Texas Six-Man state tournament. (I will publish more bracket evaluations as the week goes on)&lt;/p&gt;
+&lt;p&gt;For the past 21 seasons, I have been producing rankings for six-man football. For those of you who do not know the history, I would fax my rankings to newspapers across the state and several would actually publish them. I eventually put together a newsletter, The Huntress Report, where I would add scores, game stories, stats and schedules to the rankings and mail (or fax) to subscribers. Eventually I moved to a website, where I would update the information a week behind, so that my subscribers would be getting the freshest information first. That all was scrapped in 1999 when I decided to go 100% to the website (&lt;a href=&#34;http://www.sixmanfootball.com/&#34;&gt;www.sixmanfootball.com&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TX6MAN on sixman.guru</title>
+    <link>http://localhost:1313/tags/tx6man/</link>
+    <description>Recent content in TX6MAN on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Nov 2014 17:20:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tx6man/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crowell Favorite to Win Six-Man Title with 33.1% Win Probability</title>
+      <link>http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/</link>
+      <pubDate>Tue, 11 Nov 2014 17:20:34 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/</guid>
+      <description>&lt;p&gt;I have created several Monte Carlo simulations over the past year to try and determine probabilities for various sporting events. This week I decided to tackle the Texas Six-Man state tournament. (I will publish more bracket evaluations as the week goes on)&lt;/p&gt;
+&lt;p&gt;For the past 21 seasons, I have been producing rankings for six-man football. For those of you who do not know the history, I would fax my rankings to newspapers across the state and several would actually publish them. I eventually put together a newsletter, The Huntress Report, where I would add scores, game stories, stats and schedules to the rankings and mail (or fax) to subscribers. Eventually I moved to a website, where I would update the information a week behind, so that my subscribers would be getting the freshest information first. That all was scrapped in 1999 when I decided to go 100% to the website (&lt;a href=&#34;http://www.sixmanfootball.com/&#34;&gt;www.sixmanfootball.com&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

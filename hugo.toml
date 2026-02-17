@@ -1,0 +1,26 @@
+baseURL = 'https://sixman.guru/'
+languageCode = 'en-us'
+title = 'sixman.guru'
+theme = 'PaperMod'
+
+[params]
+  author = 'Granger'
+  description = 'Six-man football, data, and other projects'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = 'auto'
+
+[params.homeInfoParams]
+  Title = 'sixman.guru'
+  Content = 'Six-man football, data, and other projects by Granger'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ['HTML', 'RSS']

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Monte Carlo on sixman.guru</title>
+    <link>http://localhost:1313/tags/monte-carlo/</link>
+    <description>Recent content in Monte Carlo on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Nov 2014 23:44:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monte-carlo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100k Simulations of All Texas Private Six-Man Brackets</title>
+      <link>http://localhost:1313/posts/100k-simulations-of-all-texas-private-six-man-brackets/</link>
+      <pubDate>Wed, 12 Nov 2014 23:44:24 +0000</pubDate>
+      <guid>http://localhost:1313/posts/100k-simulations-of-all-texas-private-six-man-brackets/</guid>
+      <description>&lt;p&gt;It was just time to get down to it. I had been delaying the inevitable, running 100,000 simulations of each and every private school six-man state bracket. For details on how I did this, please read the earlier posts I have written about the public school brackets and other Monte Carlo simulations I have written. This was very similar….&lt;/p&gt;
+&lt;p&gt;First build the start bracket using this week’s ratings from my website (&lt;a href=&#34;http://www.sixmanfootball.com/&#34;&gt;www.sixmanfootball.com&lt;/a&gt;). Then calculate the probability of each first round game and simulate the result. After each round I update the ratings (not 100% like my formula, but a close enough estimation) and continue…. do this 100,000 times and see what happened.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>East and Throckmorton likely to rule UIL D2 Six-Man Playoffs</title>
+      <link>http://localhost:1313/posts/east-and-throckmorton-likely-to-rule-uil-d2-six-man-playoffs/</link>
+      <pubDate>Wed, 12 Nov 2014 12:54:56 +0000</pubDate>
+      <guid>http://localhost:1313/posts/east-and-throckmorton-likely-to-rule-uil-d2-six-man-playoffs/</guid>
+      <description>&lt;p&gt;After 100,000 simulations, the Throckmorton Greyhounds appear to have a 29.8% chance to win the UIL D2 Six-Man State Championship. The biggest challenge it appears will be the dominance of the East bracket, which won a dominating 80.1% of the time in the simulation.&lt;/p&gt;
+&lt;p&gt;Yesterday I wrote about how the Crowell Wildcats are a somewhat dominant 33.1% to repeat as the D1 UIL State Six-Man Champions. If you would like to read more details on the methods, I have several posted below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crowell Favorite to Win Six-Man Title with 33.1% Win Probability</title>
+      <link>http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/</link>
+      <pubDate>Tue, 11 Nov 2014 17:20:34 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/</guid>
+      <description>&lt;p&gt;I have created several Monte Carlo simulations over the past year to try and determine probabilities for various sporting events. This week I decided to tackle the Texas Six-Man state tournament. (I will publish more bracket evaluations as the week goes on)&lt;/p&gt;
+&lt;p&gt;For the past 21 seasons, I have been producing rankings for six-man football. For those of you who do not know the history, I would fax my rankings to newspapers across the state and several would actually publish them. I eventually put together a newsletter, The Huntress Report, where I would add scores, game stories, stats and schedules to the rankings and mail (or fax) to subscribers. Eventually I moved to a website, where I would update the information a week behind, so that my subscribers would be getting the freshest information first. That all was scrapped in 1999 when I decided to go 100% to the website (&lt;a href=&#34;http://www.sixmanfootball.com/&#34;&gt;www.sixmanfootball.com&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quick Post on MLB Probabilities (100k Monte Carlo Simulations)</title>
+      <link>http://localhost:1313/posts/quick-post-on-mlb-probabilities-100k-monte-carlo-simulations/</link>
+      <pubDate>Wed, 01 Oct 2014 23:06:16 +0000</pubDate>
+      <guid>http://localhost:1313/posts/quick-post-on-mlb-probabilities-100k-monte-carlo-simulations/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;I just did a quick run of 100,000 playoff simulations and wanted to share the quick results. I will try to get some finer detail or maybe look into a few changes, but here are the raw World Series champion results.&lt;/p&gt;
+&lt;p&gt;Detroit — 4950&lt;br/&gt;
+Baltimore — 18592&lt;br/&gt;
+&lt;strong&gt;LA Angels — 31876&lt;/strong&gt;&lt;br/&gt;
+Kansas City — 9058&lt;br/&gt;
+Washington — 19768&lt;br/&gt;
+San Francisco — 4246&lt;br/&gt;
+St. Louis — 1662&lt;br/&gt;
+LA Dodgers — 9848&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NCAA Men’s DI Tennis Regionals Simulated 50,000 times</title>
+      <link>http://localhost:1313/posts/ncaa-mens-di-tennis-regionals-simulated-50000-times/</link>
+      <pubDate>Tue, 06 May 2014 12:18:43 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ncaa-mens-di-tennis-regionals-simulated-50000-times/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;This is posted on my college tennis website so aptly named, &lt;a href=&#34;http://texascollegetennis.com/&#34;&gt;texascollegetennis.com&lt;/a&gt;. I decided to post it here as well.. why not, right?&lt;/p&gt;
+&lt;p&gt;I’m sitting in the middle of exams and term projects looking for ways to relax. What better way than to run a Monte Carlo Simulation of each of the men’s regionals, based on my year-end ratings?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

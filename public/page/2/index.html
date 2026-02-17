@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.155.3"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>sixman.guru</title>
+
+<meta name="description" content="Six-man football, data, and other projects">
+<meta name="author" content="Granger">
+<link rel="canonical" href="http://localhost:1313/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="sixman.guru (Alt + H)">sixman.guru</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">New Site Dedicated to Pro Tennis to Focus on Analytics
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Over the past few weeks I have been working on a new website, www.thestringtheory.net, dedicated to professional tennis analytics.
+The site will primarily focus on the lower ITF Circuits to begin with. I have started collecting data and posted a brief article highlighting the first half of the 2015 season.
+The website also boasts a Twitter account, @th3str1ngth30ry, which for the time being mostly tweets from a bot I built. The bot ‘visits’ the ITF live scoreboard every 24 minutes, sees if any matches are done and tweets out any results. It was quite a cool little project since they try to hide their data inside Flash, but with a little help, I managed to get it figured out. The program is not 100% stable, as the Java-based driver it uses seems to have some issues every once in awhile.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-07-31 18:05:12 +0000 +0000'>July 31, 2015</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to New Site Dedicated to Pro Tennis to Focus on Analytics" href="http://localhost:1313/posts/new-site-dedicated-to-pro-tennis-to-focus-on-analytics/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Musing From the First Half of the Year on the Futures Circuit
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I decided it would be good to create some awards or recognition (good and bad) for the first half of the year on the Men’s ITF Pro Circuit. I am defining the first half of the year as being from January 1, 2015 to the finals played on July 5, 2015.
+Most of these will be straight descriptive lists or players that stand out. I hope to do a deeper dive and analysis once I get everything going. In the future, I intend to include the women’s side and also do awards monthly.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-07-26 19:06:59 +0000 +0000'>July 26, 2015</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to Musing From the First Half of the Year on the Futures Circuit" href="http://localhost:1313/posts/musing-from-the-first-half-of-the-year-on-the-futures-circuit/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Building the Wine Snob Twitter Bot
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Yes, I built a Twitter bot. My bot tweets random, nonsensical wine reviews (you can find it here @WineSnobBot).
+of fresh peaches, this low-alcohol effort is further bolstered by sémillon, this is now past its peak.
+I know what you are all asking – WHY?
+I have been working recently on a variety of projects. One of them included getting a new server running at the house to mine data and run various other automated scripts. As usual, these projects get bigger and bigger and I haven’t been able get much out the door.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-05-22 10:08:20 +0000 +0000'>May 22, 2015</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to Building the Wine Snob Twitter Bot" href="http://localhost:1313/posts/building-the-wine-snob-twitter-bot/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">As Krajicek Surges, What About the Rest of the Americans?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Writer’s Note: I have added a Tableau Public version of the data used here that is very interactive. Follow this link
+With Austin Krajicek reaching a career-high #121 in the world, I decided this was a good time start looking into the current top-level Americans and where we stand.
+Let me start by saying I am just stunned by the fact that Austin has surpassed Ryan Harrison in the rankings. I am not sure how long this will last, but Lefty has really outperformed ‘my’ expectations. Congratulations to him. I always thought his left-handed, slicing game was unique. When he is serving well, he is a tough out.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-04-14 21:22:24 +0000 +0000'>April 14, 2015</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to As Krajicek Surges, What About the Rest of the Americans?" href="http://localhost:1313/posts/as-krajicek-surges-what-about-the-rest-of-the-americans/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Shaka v. Barnes
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>With the announcement of Shaka Smart as Texas’ new men’s basketball coach coming as I write this, I thought I would put a few keystrokes down on how the two coaches teams have fared since 2009, when Shaka took over at VCU.
+Since I wrote about luck (Pythagorean Luck) earlier in the week, let’s start there. I also want to point out that all of these number utilize regular season data.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-04-03 20:02:27 +0000 +0000'>April 3, 2015</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to Shaka v. Barnes" href="http://localhost:1313/posts/shaka-v-barnes/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Had Texas’ Luck Run Out? (a study in Pythagorean Luck)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>This article is by no means intended to give a full picture of Rick Barnes’ tenure at Texas, but rather point out why he may have needed to go. I am a Rick Barnes fan and appreciate everything he did for Longhorn basketball, but I also recognize that, in the immortal words of Dr. Seuss’ ‘Marvin K. Mooney’, it was time for Rick to, “Go, Go, Go.”
+The concept of Pythagorean Luck is derived from the difference between a team’s Pythagorean Winning Percentage (invented for baseball by the legendary Bill James) and their actual winning percentage. In layman’s terms, this is a difference between their expected winning percentage (based on actual offensive and defensive production) and their actual winning percentage.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-03-30 16:15:22 +0000 +0000'>March 30, 2015</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to Had Texas’ Luck Run Out? (a study in Pythagorean Luck)" href="http://localhost:1313/posts/had-texas-luck-run-out-a-study-in-pythagorean-luck/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A Little Data For Picking Your March Madness Pool
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I have been combing through lots and lots of data, as I prepare my own entry to the Kaggle Machine Learning March Mania Contest again this year. I won’t go into how I am managing my entry right now, as the competition is obviously still open, but I thought I would share some of the insights I have accumulated along the way.
+First off, you need to have a strategy. You can be the guy with the chalk bracket or the batshit-crazy-upset-dude, but we all know somewhere in the middle is probably where you need to go… just enough chalk, just enough upsets.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-03-14 10:04:44 +0000 +0000'>March 14, 2015</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to A Little Data For Picking Your March Madness Pool" href="http://localhost:1313/posts/a-little-data-for-picking-your-march-madness-pool/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">100k Simulations of All Texas Private Six-Man Brackets
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>It was just time to get down to it. I had been delaying the inevitable, running 100,000 simulations of each and every private school six-man state bracket. For details on how I did this, please read the earlier posts I have written about the public school brackets and other Monte Carlo simulations I have written. This was very similar….
+First build the start bracket using this week’s ratings from my website (www.sixmanfootball.com). Then calculate the probability of each first round game and simulate the result. After each round I update the ratings (not 100% like my formula, but a close enough estimation) and continue…. do this 100,000 times and see what happened.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2014-11-12 23:44:24 +0000 +0000'>November 12, 2014</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to 100k Simulations of All Texas Private Six-Man Brackets" href="http://localhost:1313/posts/100k-simulations-of-all-texas-private-six-man-brackets/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">East and Throckmorton likely to rule UIL D2 Six-Man Playoffs
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>After 100,000 simulations, the Throckmorton Greyhounds appear to have a 29.8% chance to win the UIL D2 Six-Man State Championship. The biggest challenge it appears will be the dominance of the East bracket, which won a dominating 80.1% of the time in the simulation.
+Yesterday I wrote about how the Crowell Wildcats are a somewhat dominant 33.1% to repeat as the D1 UIL State Six-Man Champions. If you would like to read more details on the methods, I have several posted below.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2014-11-12 12:54:56 +0000 +0000'>November 12, 2014</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to East and Throckmorton likely to rule UIL D2 Six-Man Playoffs" href="http://localhost:1313/posts/east-and-throckmorton-likely-to-rule-uil-d2-six-man-playoffs/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Crowell Favorite to Win Six-Man Title with 33.1% Win Probability
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I have created several Monte Carlo simulations over the past year to try and determine probabilities for various sporting events. This week I decided to tackle the Texas Six-Man state tournament. (I will publish more bracket evaluations as the week goes on)
+For the past 21 seasons, I have been producing rankings for six-man football. For those of you who do not know the history, I would fax my rankings to newspapers across the state and several would actually publish them. I eventually put together a newsletter, The Huntress Report, where I would add scores, game stories, stats and schedules to the rankings and mail (or fax) to subscribers. Eventually I moved to a website, where I would update the information a week behind, so that my subscribers would be getting the freshest information first. That all was scrapped in 1999 when I decided to go 100% to the website (www.sixmanfootball.com).
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2014-11-11 17:20:34 +0000 +0000'>November 11, 2014</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>granger</span></footer>
+  <a class="entry-link" aria-label="post link to Crowell Favorite to Win Six-Man Title with 33.1% Win Probability" href="http://localhost:1313/posts/crowell-favorite-to-win-six-man-title-with-33-1-win-probability/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:1313/page/3/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">sixman.guru</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

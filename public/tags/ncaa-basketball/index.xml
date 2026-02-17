@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NCAA Basketball on sixman.guru</title>
+    <link>http://localhost:1313/tags/ncaa-basketball/</link>
+    <description>Recent content in NCAA Basketball on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Mar 2014 21:41:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ncaa-basketball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live by the Variance, Die by the Variance (and why I hate Duke [and Mercer] for that matter</title>
+      <link>http://localhost:1313/posts/live-by-the-variance-die-by-the-variance-and-why-i-hate-duke-and-mercer-for-that-matter/</link>
+      <pubDate>Mon, 24 Mar 2014 21:41:58 +0000</pubDate>
+      <guid>http://localhost:1313/posts/live-by-the-variance-die-by-the-variance-and-why-i-hate-duke-and-mercer-for-that-matter/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;The first weekend of the NCAA Tournament was a wild one. In our competition, we chose models with high variance, knowing full well we could be in a world of hurt if a game or two did not go our way. Being scored on a log loss scale was new to us, and we knew of the risks, but did not really think things could get too bad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My 50,000 Monte Carlo Simulation Results for the NCAA Basketball Tournament</title>
+      <link>http://localhost:1313/posts/my-50000-monte-carlo-simulation-results-for-the-ncaa-basketball-tournament/</link>
+      <pubDate>Fri, 21 Mar 2014 02:01:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-50000-monte-carlo-simulation-results-for-the-ncaa-basketball-tournament/</guid>
+      <description>&lt;p&gt;With March Madness upon us, I have been in a solid state of sleep-deprivation. It all started with a class project assigned in late February that suggested we enter the Kaggle competition of our choice or create a similar type project.&lt;/p&gt;
+&lt;p&gt;I was immediately drawn to the March Machine Learning Mania being hosted by Kaggle and Intel. For the past three weeks, in any spare time, I have been trying to find and clean data to run models. I thought things were slowing down last week until I decided to try some new data I had found.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

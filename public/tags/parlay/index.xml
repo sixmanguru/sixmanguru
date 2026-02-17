@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Parlay on sixman.guru</title>
+    <link>http://localhost:1313/tags/parlay/</link>
+    <description>Recent content in Parlay on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2014 15:31:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/parlay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Least Squares Predictions 3-0-1 During NFL Wild Card Round</title>
+      <link>http://localhost:1313/posts/least-squares-predictions-3-0-1-during-nfl-wild-card-round/</link>
+      <pubDate>Mon, 06 Jan 2014 15:31:53 +0000</pubDate>
+      <guid>http://localhost:1313/posts/least-squares-predictions-3-0-1-during-nfl-wild-card-round/</guid>
+      <description>&lt;p&gt;With the first weekend of the NFL Playoffs completed, it seemed like a good time to catch up on how well the Least Squares Optimization predictions did the past two weeks.&lt;/p&gt;
+&lt;p&gt;If this is your first time reading about this, &lt;a href=&#34;http://www.sixmanguru.com/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/&#34;&gt;please refer to my initial article here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;First, let’s recap the final week of the regular season. Using only the games where the percentage difference between the expected line and the actual lines (from by sportsbook.com when published) was greater than 100%, the predictor went 3-1. In games where the raw absolute value of the expected and actual lines was greater than 2.5, the predictor went 5-3. Overall the predictor went 12-3 (the Bears-Packers game did not have a line sure to the unsure status of Aaron Rodgers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Least Squares Method Perfect in Week 15 and the Art of Slowing Down</title>
+      <link>http://localhost:1313/posts/least-squares-method-perfect-in-week-15-and-the-art-of-slowing-down/</link>
+      <pubDate>Thu, 19 Dec 2013 15:00:18 +0000</pubDate>
+      <guid>http://localhost:1313/posts/least-squares-method-perfect-in-week-15-and-the-art-of-slowing-down/</guid>
+      <description>&lt;p&gt;Sometimes you just need to slow down and look at the data a little closer.&lt;/p&gt;
+&lt;p&gt;That was the case last week when I mistakenly posted the wrong side of the New England-Miami line. I mentioned it was probably best to stay away from it all together due to the raw difference being so small, but I also stated the wrong side to take. Oh well. Lesson learned.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Week 15 review –&lt;/strong&gt; The least-squares method and choosing only those lines where the percentage difference of expected and actual Vegas line over the actual line was greater than 100% went a shocking 4-0. Did I bet it this way? Nope. The three lines between 80-100% went 1-2. In games where the absolute raw was greater than 2.5 went 3-2. Overall, the LS method went an incredible 11-4-1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NFL Week 15 Lines, Week 14 update and Least Squares NLP</title>
+      <link>http://localhost:1313/posts/nfl-week-15-lines-week-14-update-and-least-squares-nlp/</link>
+      <pubDate>Thu, 12 Dec 2013 22:37:59 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nfl-week-15-lines-week-14-update-and-least-squares-nlp/</guid>
+      <description>&lt;p&gt;Just a quick update on last week’s post where I use Non-Linear Programming methods to predict the NFL lines. Let’s rehash. You can also read the explanation post &lt;a href=&#34;http://www.sixmanguru.com/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/&#34;&gt;HERE&lt;/a&gt;, where I dive into Non-Linear Programming and the methods involved.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For Week 13&lt;/strong&gt; games, the least squares approach went 10-5 overall, 3-1 where the percentage of expected vs. Vegas line was greater than 100% and 6-4 when the absolute raw difference was greater than 2.5.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

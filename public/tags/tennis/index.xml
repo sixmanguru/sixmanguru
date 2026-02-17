@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tennis on sixman.guru</title>
+    <link>http://localhost:1313/tags/tennis/</link>
+    <description>Recent content in Tennis on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2016 19:52:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tennis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crème de la crème — Identifying the best of each tennis cluster</title>
+      <link>http://localhost:1313/posts/creme-de-la-creme%e2%80%8a-%e2%80%8aidentifying-the-best-of-each-tennis-cluster/</link>
+      <pubDate>Sat, 01 Oct 2016 19:52:54 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creme-de-la-creme%e2%80%8a-%e2%80%8aidentifying-the-best-of-each-tennis-cluster/</guid>
+      <description>&lt;p&gt;I wrote an article that was published over at Nikita’s The Tennis Notebook. It dives into a cluster analysis I did using year-end ATP rankings since 1972. You can find the article here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/the-tennis-notebook/who-are-the-greatest-players-in-the-open-era-e7af7f627cc5#.snynwrfqe&#34;&gt;https://medium.com/the-tennis-notebook/who-are-the-greatest-players-in-the-open-era-e7af7f627cc5#.snynwrfqe&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generic Sports Series Probability Calculator</title>
+      <link>http://localhost:1313/posts/generic-sports-series-probability-calculator/</link>
+      <pubDate>Tue, 16 Sep 2014 13:32:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/generic-sports-series-probability-calculator/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;With the baseball playoffs upon us, I have decided to start building a simulator to determine series outcomes once they start. I decided to make this as generic as possible. This simulator is not specific to baseball or even to a particular series length.&lt;/p&gt;
+&lt;p&gt;Obviously, the first parts to think about &lt;a href=&#34;http://www.sixmanguru.com/mlb-home-field-advantage-this-season/&#34;&gt;I addressed in my previous post relating to home field advantage&lt;/a&gt;, ratings and the probability a team would win a single game versus a specific opponent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting Federer-Tursunov and other Friday French Open Matches Using Markov Chain</title>
+      <link>http://localhost:1313/posts/predicting-federer-friday-french-open-matches/</link>
+      <pubDate>Fri, 30 May 2014 00:36:47 +0000</pubDate>
+      <guid>http://localhost:1313/posts/predicting-federer-friday-french-open-matches/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;Today I was enamored with the FiveThirtyEight.com article, &lt;a href=&#34;http://fivethirtyeight.com/features/inside-the-shadowy-world-of-high-speed-tennis-betting/&#34; title=&#34;538.com&#34;&gt;Inside the Shadowy World of High-Speed Tennis Betting&lt;/a&gt;. The article mentions the courtsiders who would sit court side at a tennis match and try to relay information quicker than the tournament computers to betting partners. Great read. Not sure these courtsiders were really doing anything illegal.&lt;/p&gt;
+&lt;p&gt;Buried deep in the article was a mention of the system this one organization created to predict the outcome of tennis matches for betting purposes. It links to a website, Summer of Jeff, and a post, &lt;a href=&#34;http://summerofjeff.wordpress.com/2011/01/13/python-code-for-tennis-markov/&#34; title=&#34;Summer of Jeff&#34;&gt;Python Code for Tennis Markov&lt;/a&gt;. If you follow the links to the gitHub site, there is some pretty elaborate Python code for generating probabilities based on &lt;a href=&#34;http://en.wikipedia.org/wiki/Markov_chain&#34; title=&#34;Markov&#34;&gt;Markov Chain theory&lt;/a&gt;. The code is pretty easy to use, if you understand Python and statistics, although it needs some cleaning up if you plan on using it for entire match prediction (hint: the matchProbs function needs some fixes to run).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My TexasCollegeTennis.com Feb 18 Men’s Rankings</title>
+      <link>http://localhost:1313/posts/my-texascollegetennis-com-feb-18-mens-rankings/</link>
+      <pubDate>Thu, 20 Feb 2014 16:22:41 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-texascollegetennis-com-feb-18-mens-rankings/</guid>
+      <description>&lt;p&gt;It has been too, too long since I have posted anything on here. I have been active on twitter (@TXCollege10s) and keeping up with the season as it progresses, but have not had a whole lot of time to really repost all of the articles.&lt;/p&gt;
+&lt;p&gt;I decided it was time to update the rankings program, so here we go. Please let me know where you see mistakes. &lt;strong&gt;NOTE: The records for each team indicate only matches against DI opponents. &lt;/strong&gt;So please do not e-mail me that the record is wrong, unless you are certain that has been checked.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

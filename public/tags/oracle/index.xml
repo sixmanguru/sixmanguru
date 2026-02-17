@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oracle on sixman.guru</title>
+    <link>http://localhost:1313/tags/oracle/</link>
+    <description>Recent content in Oracle on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2013 22:40:07 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Converting College Football Data for a Simple Website, using PHP, SQL and MySQL</title>
+      <link>http://localhost:1313/posts/converting-college-football-data-for-a-simple-website-using-php-sql-and-mysql/</link>
+      <pubDate>Mon, 02 Dec 2013 22:40:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/converting-college-football-data-for-a-simple-website-using-php-sql-and-mysql/</guid>
+      <description>&lt;p&gt;The pages discussed here can be found at: &lt;a href=&#34;http://www.sixmanguru.com/ncaa13.php&#34;&gt;http://www.sixmanguru.com/ncaa13.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The idea of this project came from a thought that there does not exist a single place where you can see NCAA college football teams’ records and schedules easily, without having to make a bunch of clicks on very ‘graphically full’ websites.&lt;/p&gt;
+&lt;p&gt;The first step was to see if the data could be found easily. This was done easily, as Peter Wolfe keeps this information updated daily. (&lt;a href=&#34;http://prwolfe.bol.ucla.edu/cfootball/scores.htm&#34;&gt;http://prwolfe.bol.ucla.edu/cfootball/scores.htm&lt;/a&gt;). Wolfe is a member of the official BCS rankings and also includes a comprehensive listing of conferences as well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

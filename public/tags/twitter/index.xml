@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twitter on sixman.guru</title>
+    <link>http://localhost:1313/tags/twitter/</link>
+    <description>Recent content in Twitter on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2014 16:46:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Maps on the Fly For UIL Realignment</title>
+      <link>http://localhost:1313/posts/creating-maps-on-the-fly-for-uil-realignment/</link>
+      <pubDate>Mon, 03 Feb 2014 16:46:21 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-maps-on-the-fly-for-uil-realignment/</guid>
+      <description>&lt;p&gt;This morning the high school football season officially started with the release of the much anticipated 2014-2016 UIL Football Alignments. This usually started with the UIL servers crashing due to the high volume of traffic (it did briefly, prior to release). This year the UIL was prepared and had a back-up plan to divert traffic off their site.&lt;/p&gt;
+&lt;p&gt;So at exactly 9:00 am, the Twitterverse was alive with the ramblings of everyone who cares about Texas high school football.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a simple command line streaming twitter search engine using node.js</title>
+      <link>http://localhost:1313/posts/creating-a-simple-command-line-streaming-twitter-search-engine-using-node-js/</link>
+      <pubDate>Thu, 09 Jan 2014 14:57:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-a-simple-command-line-streaming-twitter-search-engine-using-node-js/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;line-height: 1.5;&#34;&gt;About two weeks ago I published an article on &lt;a href=&#34;http://www.sixmanguru.com/texas-football-fan-sentiment-analysis-during-valero-alamo-bowl/&#34;&gt;Texas fan sentiment analysis&lt;/a&gt;, based on over 50,000 tweets I collected the day of the Valero Alamo Bowl.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This was fairly straightforward, as I utilized the &lt;a href=&#34;https://github.com/tgsmith61591/Twitter-and-UT-Football/commit/5f4a13ed6d54f9fb81d37f501bae07cf7f73f0b5&#34;&gt;code my colleague Taylor Smith created&lt;/a&gt; and modified it for my purposes. My biggest changes came with how I analyzed the data.&lt;/p&gt;
+&lt;p&gt;The problem I had was that the process of obtaining the tweets tied up my R console. This was problematic because I could neither use R, nor start looking at the data. Another problem was I had to determine up front how long I wanted to run the search. I could kill the process, but if the game ran past the time I had set, I would have to rush and restart it again.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

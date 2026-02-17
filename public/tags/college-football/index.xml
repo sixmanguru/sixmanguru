@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>College Football on sixman.guru</title>
+    <link>http://localhost:1313/tags/college-football/</link>
+    <description>Recent content in College Football on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2014 03:27:45 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/college-football/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why isn’t Purdue in the Sugar Bowl? A study in graph theory</title>
+      <link>http://localhost:1313/posts/why-isnt-purdue-in-the-sugar-bowl-a-study-in-graph-theory/</link>
+      <pubDate>Fri, 03 Jan 2014 03:27:45 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-isnt-purdue-in-the-sugar-bowl-a-study-in-graph-theory/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;line-height: 1.5;&#34;&gt;Why isn’t Purdue in the Sugar Bowl?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Yes, 1-11 Purdue, with their big time win over Indiana State. It sounds absurd, doesn’t it? But like 118 other teams in the NCAA Division I BCS, they have an indirect win over Alabama (and Auburn for that matter).&lt;/p&gt;
+&lt;p&gt;This is one of the reasons I love college football.&lt;/p&gt;
+&lt;p&gt;You hear all of the talk about how on any given day, TEAM A can beat TEAM B. But we don’t believe it, until some Saturday in the fall, Georgia Southern beats Florida or Appalachian State beats Michigan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Texas Football Fan Sentiment Analysis During Valero Alamo Bowl</title>
+      <link>http://localhost:1313/posts/texas-football-fan-sentiment-analysis-during-valero-alamo-bowl/</link>
+      <pubDate>Wed, 01 Jan 2014 19:48:35 +0000</pubDate>
+      <guid>http://localhost:1313/posts/texas-football-fan-sentiment-analysis-during-valero-alamo-bowl/</guid>
+      <description>&lt;p&gt;With Monday night’s Alamo Bowl being Coach Mack Brown’s final game as coach of the Texas Longhorns, it seemed like a good opportunity to test fan sentiment on the occasion via Twitter. I captured tweets containing certain words in an attempt to follow sentiment towards Mack Brown and Texas over time, leading up to the game, during the game and afterwards for a brief period.&lt;/p&gt;
+&lt;p&gt;I began collecting data around 2:25 PM CST and stopped just after 10:00 PM. The search terms I used were: Mack Brown, mackbrown, Texas Football, Texas Longhorn, hookem and hook em. During that time period, over 51,000 tweets were collected using these search terms. Please not that these terms could be used as regular words, a part of words as well as hashtags.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>College Bowl Season Predictions Based on Least Squared Non-Linear Programming Model</title>
+      <link>http://localhost:1313/posts/college-bowl-season-predictions-based-on-least-squared-non-linear-programming-model/</link>
+      <pubDate>Sun, 22 Dec 2013 03:45:12 +0000</pubDate>
+      <guid>http://localhost:1313/posts/college-bowl-season-predictions-based-on-least-squared-non-linear-programming-model/</guid>
+      <description>&lt;p&gt;There’s no shortage of data out there when it comes to college football, so I decided to take the time to create a least squares model, based on the same principals I have been using for the NFL, and &lt;a href=&#34;http://www.sixmanguru.com/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/&#34;&gt;outlined here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea was to take all 752 schools that played college football, cross that with all 4138 games that were played (up to last weekend) and see how they predict the games (especially versus the Vegas lines).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Converting College Football Data for a Simple Website, using PHP, SQL and MySQL</title>
+      <link>http://localhost:1313/posts/converting-college-football-data-for-a-simple-website-using-php-sql-and-mysql/</link>
+      <pubDate>Mon, 02 Dec 2013 22:40:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/converting-college-football-data-for-a-simple-website-using-php-sql-and-mysql/</guid>
+      <description>&lt;p&gt;The pages discussed here can be found at: &lt;a href=&#34;http://www.sixmanguru.com/ncaa13.php&#34;&gt;http://www.sixmanguru.com/ncaa13.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The idea of this project came from a thought that there does not exist a single place where you can see NCAA college football teams’ records and schedules easily, without having to make a bunch of clicks on very ‘graphically full’ websites.&lt;/p&gt;
+&lt;p&gt;The first step was to see if the data could be found easily. This was done easily, as Peter Wolfe keeps this information updated daily. (&lt;a href=&#34;http://prwolfe.bol.ucla.edu/cfootball/scores.htm&#34;&gt;http://prwolfe.bol.ucla.edu/cfootball/scores.htm&lt;/a&gt;). Wolfe is a member of the official BCS rankings and also includes a comprehensive listing of conferences as well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

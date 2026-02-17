@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Non-Linear Prgramming on sixman.guru</title>
+    <link>http://localhost:1313/tags/non-linear-prgramming/</link>
+    <description>Recent content in Non-Linear Prgramming on sixman.guru</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2013 21:29:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/non-linear-prgramming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFL Week 14 Predictions, Ratings, Optimization and Non-Linear Programming</title>
+      <link>http://localhost:1313/posts/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/</link>
+      <pubDate>Fri, 06 Dec 2013 21:29:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nfl-week-14-predictions-ratings-optimization-and-non-linear-programming/</guid>
+      <description>&lt;!-- AdSense Now! V3.40 --&gt;
+&lt;!-- Post[count: 1] --&gt;
+&lt;div class=&#34;adsense adsense-leadin&#34; style=&#34;float:right;margin: 12px;&#34;&gt;
+&lt;!-- Guru2013 --&gt;
+&lt;/div&gt;&lt;p&gt;We finished classes yesterday, so all that is left for the semester is a homework assignment, three projects and three more exams. I have whittled this away to only needing to complete one last project and study for the exams. But, instead of finishing my database project, which is due Sunday, I elected to take a deeper dive into a classroom example for an exam I had yesterday.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
