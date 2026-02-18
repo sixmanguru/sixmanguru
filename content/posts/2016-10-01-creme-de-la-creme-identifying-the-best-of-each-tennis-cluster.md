@@ -1,7 +1,7 @@
 ---
 title: "Crème de la crème — Identifying the best of each tennis cluster"
 date: 2016-10-01T19:52:54+00:00
-slug: "creme-de-la-creme%E2%80%8A-%E2%80%8Aidentifying-the-best-of-each-tennis-cluster"
+slug: "creme-de-la-creme-identifying-the-best-of-each-tennis-cluster"
 author: "granger"
 draft: false
 tags:
