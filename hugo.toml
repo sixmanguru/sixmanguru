@@ -15,7 +15,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
   Title = 'sixman.guru'
-  Content = 'Six-man football, data, and other projects by Granger'
+  Content = 'ramblings of a data nerd from a patchwork of blog posts over the years on a variety of topics'
 
 [markup]
   [markup.goldmark]
